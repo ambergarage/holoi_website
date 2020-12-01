@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "FRFG46H4HC.com.holoi.holokit.official-app",
+                "paths": [ "*"]
+            }
+        ]
+    },
+    "appclips": {
+        "apps": ["FRFG46H4HC.com.holoi.holokit.official-app.Clip"]
+    }
+}
